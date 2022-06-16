@@ -1,0 +1,44 @@
+
+ [
+    {
+      "id": 1,
+      "title": "Cashev Tukda",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/580/original/data/tr:w-256,h-256",
+      "sellingPrice": "₹147",
+      "discount": "33%"
+    },
+    {
+      "id": 2,
+      "title": "Dry Dates",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/596/original/data/tr:w-256,h-256",
+    
+      "sellingPrice": "₹268",
+      "discount": "33%"
+    },
+    {
+      "id": 3,
+      "title": "Dry Dates",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/597/original/data/tr:w-256,h-256",
+      
+      "sellingPrice": "₹129",
+      "discount": "50%"
+    },
+    {
+      "id": 4,
+      "title": "Dry Dates",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/598/original/data/tr:w-256,h-256",
+      "sellingPrice": "₹319",
+      "discount": "50%"
+    }
+   
+   
+    
+
+  ]
+
+
+  

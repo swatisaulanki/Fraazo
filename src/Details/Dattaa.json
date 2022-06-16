@@ -1,0 +1,36 @@
+
+ [
+    {
+      "id": 1,
+      "title": "Mango Raw",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-master/VMAN12.png/tr:w-256,h-256",
+      "sellingPrice": "₹147",
+      "discount": "33%"
+    },
+    {
+      "id": 2,
+      "title": "Mango Badami",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/135/original/data/tr:w-256,h-256",
+    
+      "sellingPrice": "₹268",
+      "discount": "33%"
+    },
+    {
+      "id": 3,
+      "title": "Mango Totapuri Raw",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-prod/images/images/000/004/597/original/data/tr:w-256,h-256",
+      
+      "sellingPrice": "₹129",
+      "discount": "50%"
+    }
+    
+   
+    
+
+  ]
+
+
+  

@@ -1,0 +1,51 @@
+
+ [
+    {
+      "id": 1,
+      "title": "Special Offer Watermelon",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-prod/images/images/000/004/598/original/data/tr:w-256,h-256,f-webp",
+      "sellingPrice": "₹147",
+      "discount": "33%"
+    },
+    {
+      "id": 2,
+      "title": "Onion",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-master/BONI11.png/tr:w-256,h-256,f-webp",
+    
+      "sellingPrice": "₹268",
+      "discount": "33%"
+    },
+    {
+      "id": 3,
+      "title": "Banana Robusta",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-master/FBAN14.png/tr:w-256,h-256,f-webp",
+      
+      "sellingPrice": "₹129",
+      "discount": "50%"
+    },
+    {
+      "id": 4,
+      "title": "Potato/Batata",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-master/BPOT11.png/tr:w-256,h-256,f-webp",
+      "sellingPrice": "₹319",
+      "discount": "50%"
+    },
+    {
+      "id": 5,
+      "title": "Tomato (125g)",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-prod/images/images/000/006/605/original/data/tr:w-256,h-256,f-webp",
+      "sellingPrice": "₹128 ",
+      "discount": "50%"
+    }
+   
+
+
+  ]
+
+
+  

@@ -1,0 +1,51 @@
+
+ [
+    {
+      "id": 1,
+      "title": "Maya Kabuli Chana Big 500G",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-prod/products/product_images/000/003/441/original/data/tr:w-256,h-256",
+      "sellingPrice": "₹72",
+      "discount": "33%"
+    },
+    {
+      "id": 2,
+      "title": "Maya Kabuli Chana Big 500G",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-prod/products/product_images/000/003/442/original/data/tr:w-256,h-256",
+    
+      "sellingPrice": "₹55",
+      "discount": "33%"
+    },
+    {
+      "id": 3,
+      "title": "Maya Maida",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-prod/products/product_images/000/003/443/original/data/tr:w-256,h-256",
+      
+      "sellingPrice": "₹27",
+      "discount": "50%"
+    },
+    {
+      "id": 4,
+      "title": "Maya Masoor Dal Split 500G",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-prod/products/product_images/000/003/444/original/data/tr:w-256,h-256",
+      "sellingPrice": "₹31",
+      "discount": "50%"
+    },
+    {
+      "id": 5,
+      "title": "Maya Premium Suji 500G",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-prod/products/product_images/000/003/449/original/data/tr:w-256,h-256",
+      "sellingPrice": "₹27",
+      "discount": "50%"
+    }
+   
+    
+
+  ]
+
+
+  

@@ -1,0 +1,51 @@
+
+ [
+    {
+      "id": 1,
+      "title": "Arbi (Colocasia)",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-master/VARB12.png/tr:w-256,h-256",
+      "sellingPrice": "₹147",
+      "discount": "33%"
+    },
+    {
+      "id": 2,
+      "title": "Basil Italian",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-master/EBAS11.png/tr:w-256,h-256",
+    
+      "sellingPrice": "₹268",
+      "discount": "33%"
+    },
+    {
+      "id": 3,
+      "title": "Curry Leaves",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-master/LCUR11.png/tr:w-256,h-256",
+      
+      "sellingPrice": "₹129",
+      "discount": "50%"
+    },
+    {
+      "id": 4,
+      "title":"Mushroom Button",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-master/EMUS2.png/tr:w-256,h-256",
+      "sellingPrice": "₹319",
+      "discount": "50%"
+    },
+    {
+      "id": 5,
+      "title": "Lemon Grass",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/156/original/data/tr:w-256,h-256",
+      "sellingPrice": "₹128",
+      "discount": "50%"
+    }
+   
+    
+
+  ]
+
+
+  

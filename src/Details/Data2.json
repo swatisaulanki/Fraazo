@@ -1,0 +1,51 @@
+
+ [
+    {
+      "id": 1,
+      "title": "Banana",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-master/FBAN14.png/tr:w-256,h-256",
+      "sellingPrice": "₹50",
+      "discount": "33%"
+    },
+    {
+      "id": 2,
+      "title": "Blueberry",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-master/FBLU1.png/tr:w-256,h-256",
+    
+      "sellingPrice": "₹120",
+      "discount": "33%"
+    },
+    {
+      "id": 3,
+      "title": "Coconut",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-master/FCOC1.png/tr:w-256,h-256",
+      
+      "sellingPrice": "₹31",
+      "discount": "50%"
+    },
+    {
+      "id": 4,
+      "title": "Mosambi",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-master/FMOS13.png/tr:w-256,h-256",
+      "sellingPrice": "₹125",
+      "discount": "50%"
+    },
+    {
+      "id": 5,
+      "title": "Pineapple",
+      "imgURL":
+      "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/157/original/data/tr:w-256,h-256",
+      "sellingPrice": "₹128",
+      "discount": "50%"
+    }
+   
+    
+
+  ]
+
+
+  
