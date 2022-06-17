@@ -459,3 +459,54 @@ margin-left: 150px;
   width: 100px;
   border-radius: 20px;
   }
+  .appstor{
+    height:20%;
+    
+  }
+  .mo img{
+    height: 20px;
+  }
+  .imgplay{
+    height:0.5px;
+  }
+.swatra{
+  margin-left:90px;
+  width: 300px;
+  height: 29px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+  @media(max-width:800px){
+    body{
+      width: 100%;
+    }
+    .container{
+      width:95%;
+  height:500px;
+  display:grid;
+  grid-template-columns: repeat(2,20%);
+  grid-template-rows: repeat(6, 30%);
+  grid-gap:1850%;
+  row-gap: 350px;
+  margin-left:55px;
+  column-gap: 155px;
+  margin-top: 360px;
+    }
+
+    .contain2{
+      width:93%;
+      height:500px;
+      display:grid;
+      grid-template-columns: repeat(2,20%);
+      grid-template-rows: repeat(6,30%);
+      grid-gap:5px;
+      margin-left:35px;
+      column-gap: 153px;
+      margin-top: 50px;
+      /* margin-right:50px; */
+      /* row-gap: 20px; */
+      border: 0px solid  rgb(70, 114, 60);
+    
+     
+    }
+  }

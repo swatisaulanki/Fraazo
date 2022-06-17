@@ -1,5 +1,6 @@
 import React, {useState} from 'react'
 import "./style.css"
+import { Link } from 'react-router-dom'
 
 const Loginn = () => {
     const[email, setEmail]= useState("");
@@ -31,7 +32,8 @@ const Loginn = () => {
 
     /><br></br><br></br>
     </div>
-    <button className='fbutton' type='submit'>Login</button>
+    <Link to="/">
+    <button className='fbutton' type='submit'>Login</button></Link>
       </form>
     </>
   )

@@ -84,9 +84,9 @@ from farmers.</p>
                   </FooterPara><br></br>
             
           </div>
-            <div>
-              <SocialImg src="/assets/pinterest.png" alt="youtubeImg" />
-            </div>
+            {/* <div>
+              <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaiZx33fuPKNVXMtCdTdxh_P7Q-6yDdHUEhOm_tnI0vr1AW-kz6iH5BGPk6V5phWNw6yc&usqp=CAU'/>
+            </div> */}
 
           
           </div>

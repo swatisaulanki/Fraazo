@@ -136,7 +136,7 @@ const Navbar = () => {
             fontSize={"18px"}
             fontWeight={400}
             variant={"link"}
-            href={"/cart"}
+            href={"#"}
           >
             Credit
           </Button>

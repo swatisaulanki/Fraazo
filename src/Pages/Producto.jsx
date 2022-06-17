@@ -15,7 +15,6 @@ const Producto = () => {
   }
   return (
 <>
-<Link to="/cart"></Link>
 
 <div className='daatatwo'><h3>FRUITS</h3></div>
     
